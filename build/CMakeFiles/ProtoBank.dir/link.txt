@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ProtoBank.dir/tests/Account_test.cpp.o -o ProtoBank  third-party/gtest/googlemock/gtest/libgtest.a third-party/gtest/googlemock/gtest/libgtest_main.a libBankingLib.a third-party/gtest/googlemock/gtest/libgtest.a 

@@ -1,0 +1,4 @@
+/home/andrew/AndrewB203/workspacenew/lab05/banking/build/CMakeFiles/Account.dir
+/home/andrew/AndrewB203/workspacenew/lab05/banking/build/CMakeFiles/Transaction.dir
+/home/andrew/AndrewB203/workspacenew/lab05/banking/build/CMakeFiles/edit_cache.dir
+/home/andrew/AndrewB203/workspacenew/lab05/banking/build/CMakeFiles/rebuild_cache.dir
